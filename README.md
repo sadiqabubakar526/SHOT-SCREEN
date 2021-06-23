@@ -6,7 +6,7 @@ shot screen is a simple project that works with screen.guru and **takes clean sc
 ## View It Live
 
 
-<img src="https://github.com/sadiqabubakar526/shot-screen/blob/master/img/new.gif?raw=true" width="80%">
+<img src="https://github.com/sadiqabubakar526/shot-screen/blob/master/img/new.png?raw=true" width="80%">
 
 # What's Its Use
 + It Takes clean screenshot of your website
