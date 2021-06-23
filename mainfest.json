@@ -1,0 +1,17 @@
+{
+    "name": "Shot Screen",
+    "Developer": "Suraj_Abubakar_Dulah",
+    "short_name": "Web shorter",
+    "description": "Takes Clean Screenshots of any Website. Work with screen.guru",
+    "lang": "Javascript",
+    "start_url": "/index.html",
+    "display": "minimal-ui",
+    "theme_color": "#046367",
+    "icons": [
+      {
+        "src": "https://sprintnote.vercel.app/img/github.png",
+        "sizes": "64*64",
+        "type": "image/png"
+      }
+    ]
+}
