@@ -15,7 +15,7 @@ shot screen is a simple project that works with screen.guru and **takes clean sc
 + Fully Responsive, Use it in any device
 
 # Useful links
-+ Project in Live: _
++ Project in Live: https://dev-tic-tac-toe.netlify.app/
 + My github profile: https://github.com/sadiqabubakar526
 + My Instagram Profile: https://instagram.com/real_dulah_born
 + Project Presentations: In progreess
