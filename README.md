@@ -6,7 +6,7 @@ shot screen is a simple project that works with screen.guru and **takes clean sc
 ## View It Live
 
 
-<img src="https://github.com/sadiqabubakar526/shot-screen/blob/master/img/screenshot.png?raw=true" width="80%">
+<img src="https://github.com/sadiqabubakar526/shot-screen/blob/master/screenshot.png?raw=true" width="80%">
 
 # What's Its Use
 + It Takes clean screenshot of your website
@@ -15,7 +15,7 @@ shot screen is a simple project that works with screen.guru and **takes clean sc
 + Fully Responsive, Use it in any device
 
 # Useful links
-+ Project in Live: 
++ Project in Live: https://shot-screen.netlify.app/
 + My github profile: https://github.com/sadiqabubakar526
 + My Instagram Profile: https://instagram.com/real_dulah_born
 + Project Presentations: In progreess
