@@ -10,12 +10,12 @@ shot screen is a simple project that works with screen.guru and **takes clean sc
 
 # What's Its Use
 + It Takes clean screenshot of your website
-+ Resize it
+
 + Put it inside a mac browser mockup
 + Fully Responsive, Use it in any device
 
 # Useful links
-+ Project in Live: https://dev-tic-tac-toe.netlify.app/
++ Project in Live: 
 + My github profile: https://github.com/sadiqabubakar526
 + My Instagram Profile: https://instagram.com/real_dulah_born
 + Project Presentations: In progreess
